@@ -100,9 +100,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="example.cpp" />
+    <ClCompile Include="TwosComplement.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="example.h" />
+    <ClInclude Include="TwosComplement.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

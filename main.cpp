@@ -1,8 +1,8 @@
-#include "example.h"
+#include "TwosComplement.h"
+#include <stdlib.h>
 
 void main()
 {
-  Example* ex = new Example();
-  ex->print();
-  (*ex).print();
+  TwosComplement* obj = new TwosComplement();
+  system("pause");
 }
