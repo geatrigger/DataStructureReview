@@ -24,12 +24,18 @@
     <ClCompile Include="TwosComplement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RealNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="example.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TwosComplement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RealNumber.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,8 +1,8 @@
-#include "TwosComplement.h"
+#include "RealNumber.h"
 #include <stdlib.h>
 
 void main()
 {
-  TwosComplement* obj = new TwosComplement();
+  RealNumber* obj = new RealNumber();
   system("pause");
 }
