@@ -98,12 +98,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryTree.cpp" />
+    <ClCompile Include="Calculator.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="example.cpp" />
     <ClCompile Include="RealNumber.cpp" />
     <ClCompile Include="TwosComplement.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryTree.h" />
+    <ClInclude Include="Calculator.h" />
     <ClInclude Include="example.h" />
     <ClInclude Include="RealNumber.h" />
     <ClInclude Include="TwosComplement.h" />

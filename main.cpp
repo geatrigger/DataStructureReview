@@ -1,8 +1,8 @@
-#include "RealNumber.h"
+#include "Calculator.h"
 #include <stdlib.h>
 
 void main()
 {
-  RealNumber* obj = new RealNumber();
+  Calculator* obj = new Calculator();
   system("pause");
 }
