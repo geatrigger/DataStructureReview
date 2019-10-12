@@ -102,11 +102,13 @@
     <ClCompile Include="example.cpp" />
     <ClCompile Include="RealNumber.cpp" />
     <ClCompile Include="TwosComplement.cpp" />
+    <ClCompile Include="UseString.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="example.h" />
     <ClInclude Include="RealNumber.h" />
     <ClInclude Include="TwosComplement.h" />
+    <ClInclude Include="UseString.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

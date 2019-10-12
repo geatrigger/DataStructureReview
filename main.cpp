@@ -1,8 +1,8 @@
-#include "RealNumber.h"
+#include "UseString.h"
 #include <stdlib.h>
 
 void main()
 {
-  RealNumber* obj = new RealNumber();
+  UseString* obj = new UseString();
   system("pause");
 }
